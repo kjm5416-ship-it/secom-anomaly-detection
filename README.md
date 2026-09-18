@@ -61,7 +61,7 @@ UCI Machine Learning Repository. https://doi.org/10.24432/C54305
 
 - [x] STEP 0 — 데이터 파악
 - [x] STEP 1 — 전처리 및 탐색적 분석
-- [ ] STEP 2 — 감지 방법 5종 구현 및 공통 채점
+- [x] STEP 2 — 감지 방법 5종 구현 및 공통 채점
 - [ ] STEP 3 — 재현율 0.85 달성, 두 번째 데이터셋 검증
 - [ ] STEP 4 — 논문 투고 (한국정보기술학회 추계, 마감 10/23)
 - [ ] STEP 5 — 모니터링 화면 배포
